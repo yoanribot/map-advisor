@@ -1,0 +1,196 @@
+{
+  "message": "accurate",
+  "cod": "200",
+  "count": 5,
+  "list": [
+      {
+          "id": 2988507,
+          "name": "Paris",
+          "coord": {
+              "lat": 48.8534,
+              "lon": 2.3488
+          },
+          "main": {
+              "temp": 278.45,
+              "feels_like": 278.45,
+              "temp_min": 276.48,
+              "temp_max": 279.47,
+              "pressure": 1028,
+              "humidity": 96
+          },
+          "dt": 1642640952,
+          "wind": {
+              "speed": 0.89,
+              "deg": 248
+          },
+          "sys": {
+              "country": "FR"
+          },
+          "rain": null,
+          "snow": null,
+          "clouds": {
+              "all": 75
+          },
+          "weather": [
+              {
+                  "id": 803,
+                  "main": "Clouds",
+                  "description": "broken clouds",
+                  "icon": "04n"
+              }
+          ]
+      },
+      {
+          "id": 6618620,
+          "name": "Paris 14",
+          "coord": {
+              "lat": 48.8331,
+              "lon": 2.3264
+          },
+          "main": {
+              "temp": 278.22,
+              "feels_like": 278.22,
+              "temp_min": 276.7,
+              "temp_max": 279.27,
+              "pressure": 1029,
+              "humidity": 97
+          },
+          "dt": 1642641209,
+          "wind": {
+              "speed": 0.89,
+              "deg": 248
+          },
+          "sys": {
+              "country": "FR"
+          },
+          "rain": null,
+          "snow": null,
+          "clouds": {
+              "all": 75
+          },
+          "weather": [
+              {
+                  "id": 803,
+                  "main": "Clouds",
+                  "description": "broken clouds",
+                  "icon": "04n"
+              }
+          ]
+      },
+      {
+          "id": 4717560,
+          "name": "Paris",
+          "coord": {
+              "lat": 33.6609,
+              "lon": -95.5555
+          },
+          "main": {
+              "temp": 278.31,
+              "feels_like": 272.88,
+              "temp_min": 276.09,
+              "temp_max": 279.91,
+              "pressure": 1019,
+              "humidity": 65
+          },
+          "dt": 1642640960,
+          "wind": {
+              "speed": 10.29,
+              "deg": 340
+          },
+          "sys": {
+              "country": "US"
+          },
+          "rain": null,
+          "snow": null,
+          "clouds": {
+              "all": 90
+          },
+          "weather": [
+              {
+                  "id": 804,
+                  "main": "Clouds",
+                  "description": "overcast clouds",
+                  "icon": "04n"
+              }
+          ]
+      },
+      {
+          "id": 6942553,
+          "name": "Paris",
+          "coord": {
+              "lat": 43.2,
+              "lon": -80.3833
+          },
+          "main": {
+              "temp": 269.49,
+              "feels_like": 263.03,
+              "temp_min": 268.01,
+              "temp_max": 271.6,
+              "pressure": 1018,
+              "humidity": 75,
+              "sea_level": 1018,
+              "grnd_level": 989
+          },
+          "dt": 1642640945,
+          "wind": {
+              "speed": 6.05,
+              "deg": 304
+          },
+          "sys": {
+              "country": "CA"
+          },
+          "rain": null,
+          "snow": null,
+          "clouds": {
+              "all": 83
+          },
+          "weather": [
+              {
+                  "id": 803,
+                  "main": "Clouds",
+                  "description": "broken clouds",
+                  "icon": "04n"
+              }
+          ]
+      },
+      {
+          "id": 4647963,
+          "name": "Paris",
+          "coord": {
+              "lat": 36.302,
+              "lon": -88.3267
+          },
+          "main": {
+              "temp": 274.29,
+              "feels_like": 270.91,
+              "temp_min": 272.34,
+              "temp_max": 275.72,
+              "pressure": 1021,
+              "humidity": 93
+          },
+          "dt": 1642640968,
+          "wind": {
+              "speed": 3.13,
+              "deg": 349
+          },
+          "sys": {
+              "country": "US"
+          },
+          "rain": null,
+          "snow": {
+              "1h": 1.37
+          },
+          "clouds": {
+              "all": 90
+          },
+          "weather": [
+              {
+                  "id": 601,
+                  "main": "Snow",
+                  "description": "snow",
+                  "icon": "13n"
+              }
+          ]
+      }
+  ]
+}
